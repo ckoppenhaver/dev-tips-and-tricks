@@ -4,7 +4,14 @@ This is some tips and tricks I have picked up over time that I use to help be mo
 ## Table of Contents
 - 01-Bash Profile
   - Bash scripting
-- 02-Apps
+- 02-Terminal-Tips
+  - Opening file / directory with application
+  - Showing all files and directories 
+  - Running previous command
+  - Cycling through previous commands
+  - Searching for previous commands 
+  - Exiting current terminal action
+- 03-Apps
   - Text Editors 
     - Atom
     - Sublime Text 3
@@ -17,13 +24,13 @@ This is some tips and tricks I have picked up over time that I use to help be mo
     - Iterm2
     - Last Pass
     - Sequel Pro (SQL Pancakes)
-- 03-Tools
+- 04-Tools
   - Homebrew
   - Oh-My ZSH
   - NVM
   - RVM
   - Tmux
-- 04-Utility-Sites
+- 05-Utility-Sites
   - Regex
     - Regexr
     - Regex101
@@ -32,9 +39,9 @@ This is some tips and tricks I have picked up over time that I use to help be mo
   - Drupal
     - Multiple versions of drush
     - Drush Commands
-- 05-Notes
+- 06-Notes
   - Google Keep
   - Evernote
   - Microsoft One Note
-- 06-Gotchas
+- 07-Gotchas
   - OSX Sierra
