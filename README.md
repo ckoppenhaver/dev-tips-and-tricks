@@ -133,6 +133,10 @@ Seriously, if you have spent a fair chunk of time trying to solve an issue but a
 
 Also, if you have a solution for a ticket but are not 100% it is the correct / intended / best approach also reach out to the lead on the project. Collaboration on work overall saves time, the client money, and makes everyone in the end happy.
 
+### I am screensharing and notifications keep popping up:
+Well then, if you are on OSX (Mac) you can turn off notification by holding `<Option> + clicking notification center hamburger menu icon`. Also you can use a app like [Muzzle](https://muzzleapp.com/) that auto turns notifications off when it detects a screenshare. 
+
+The reason for this is you never know what may come through in a notification and that can be extra cringy when you are showing a client or even other co-workers your screen.
 
 ### What are Timesheets and this thing called Standup?:
 In order to get paid we need to record time and what we were doing with that time. In my opinion one of the best ways to record time is a site / app called [Toggl](https://toggl.com/). You can start / stop time entries, add notes, see reports, the list goes on. 
