@@ -113,6 +113,15 @@ Some of the allowed options are as follows:
 - Stats such as how much battery life is left, computer uptime, branch name
 - And many more
 
+## Code Review
+The fun time to see what you can get past your peers and crash Dev / Stage.
+
+### I alays get a lot of feed back on my Pull Requests:
+A simple method to help cut this down is before pushing your code up or creating a PR do a review of your own work and see what has changed. Use a visual diff to help highlight changes. I use [GitKraken](https://www.gitkraken.com/) which is free with a rad dark theme. 
+
+Once you have taken a look locally and feel confident in your work push it up or if you already pushed your work to the remote create your Pull Request. During this process give your work another review and see if you can catch anything else. 
+
+Another thing to do before even getting to the steps above is to test every which way possible. This includes tearing down and rebuilding your project. So in the case of working with [Drupal](https://www.drupal.org/) and [Outrigger](https://github.com/phase2/outrigger-docs) this would be removing the `build/html` and doing a fresh `rig project build` followed by a Drupal site install to test new fields.
 
 ## The not so devy skills:
 As unfortunate as it may be as a developer our day will involve more than just heads down and coding up work. Sometimes these non dev skills come into a bigger play and are more important than your dev chops.
